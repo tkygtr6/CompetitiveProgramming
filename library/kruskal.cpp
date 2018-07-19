@@ -1,3 +1,5 @@
+// http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=jp
+
 #include <stdio.h>
 #include <iostream>
 #include <vector>
